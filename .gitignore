@@ -1,4 +1,6 @@
 /config/keys.js
 /node_modules
 
+/config/keys_dev
+
 /frontend/node_modules
